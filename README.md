@@ -1,1 +1,1 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=rin96)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rin96)](https://github.com/anuraghazra/github-readme-stats)
