@@ -3,9 +3,6 @@
 <!-- ============================================= -->
 
 ### Hi👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=1000&color=808080&width=600&lines=Web+Developer+%C2%B7+Tokyo;)](https://git.io/typing-svg)
-
 ---
 
 <!-- ============================================= -->
